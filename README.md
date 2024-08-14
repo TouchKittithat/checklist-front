@@ -8,7 +8,7 @@
 - [ ] การทํางานเบื้องต้นของระบบ Internet
 - [ ] DNS / Domain name และ Client - Server Model
 - [ ] การทํางานของ Web Browser
-- [ ] ความรู้พื้นฐาน Computer Network
+- [x] ความรู้พื้นฐาน Computer Network
 - [ ] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
 - [ ] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
 
